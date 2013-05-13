@@ -1,0 +1,19 @@
+{
+  "author": "Dmitriy Voeykov <dmitriy.voeykov@yandex.ru>",
+  "name": "string-slug",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:vdmitriy/string-slug.git"
+  },
+  "contributors": [
+  ],
+  "main": "./lib/string-slug",
+  "engines": {
+    "node": ">= v0.4.x"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}
